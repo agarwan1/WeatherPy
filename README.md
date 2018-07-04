@@ -1,6 +1,6 @@
 # WeatherPy Analysis
 
-<blockquote><p>For this project, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a simple Python library called ![citipy](https://pypi.python.org/pypi/citipy) and the ![OpenWeatherMap API](https://openweathermap.org/api). </p></blockquote>
+<blockquote><p>For this project, I created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, I utilized a simple Python library called <a href = "https://pypi.python.org/pypi/citipy">citipy</a> and the <a href = "https://openweathermap.org/api">OpenWeatherMap API</a>. </p></blockquote>
 
 ## PreRequisites before executing the code
 When executing the code in WeatherPy.ipynb, please get a WeatherPy api key from OpenWeatherMap(https://openweathermap.org/api) and plug it into the api_key variable. 
